@@ -5,8 +5,8 @@ theme = "hermit-v2"
 languageCode = "en-us"
 
 title = "Rhombus Labs"
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
+pygmentsCodefences = true
+pygmentsUseClasses = true
 disableKinds = ['RSS']
 
 copyright = "Rhombus Labs"
@@ -24,7 +24,7 @@ expiryDate = ["expiryDate"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   themeColor = "#494f5c"
-  homeSubtitle = "Coming soon..."
+  homeSubtitle = "Professional electronics"
   footerCopyright = "Made with ❤️ in Ukraine"
   gitUrl = "https://github.com/rhombus-labs-hq"
   justifyContent = false
@@ -37,3 +37,8 @@ expiryDate = ["expiryDate"]
     name = "github"
     url = "https://github.com/rhombus-labs-hq"
 
+[menu]
+  [[menu.main]]
+    name = "Official store"
+    url = "https://bloomtech.com.ua/"
+    weight = 10
